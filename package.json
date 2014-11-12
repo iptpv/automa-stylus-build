@@ -1,0 +1,24 @@
+{
+  "name": "automa-stylus-build",
+  "version": "0.0.1",
+  "description": "Compile stylus to css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:unclepotap/automa-stylus-build.git"
+  },
+  "author": "Ivan Potapov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unclepotap/automa-stylus-build/issues"
+  },
+  "homepage": "https://github.com/unclepotap/automa-stylus-build",
+  "dependencies": {
+    "autoprefixer-stylus": "^0.3.1",
+    "csso-stylus": "0.0.3",
+    "stylus": "^0.49.3"
+  }
+}
